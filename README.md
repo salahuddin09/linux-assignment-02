@@ -43,6 +43,7 @@ This project contains two Bash scripts to process an Apache access log and a boo
     Calculate and display the average number of words per sentence.
 
 🚀 How to Run
+
 1️⃣ Clone the repository
 
 git clone <your_repo_url>
