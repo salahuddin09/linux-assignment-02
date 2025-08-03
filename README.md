@@ -61,6 +61,9 @@ chmod +x access_log_process.sh book_process.sh
 
 ./book_process.sh
 
+
+<img width="539" height="343" alt="image" src="https://github.com/user-attachments/assets/efc7fbd5-fc6e-46df-b520-110648e8bd1b" />
+
 ✅ Expected Output
 
     The scripts will display all required results directly in the terminal.
