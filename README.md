@@ -56,7 +56,13 @@ chmod +x access_log_process.sh book_process.sh
 3️⃣ Run the scripts
 
 ./access_log_process.sh
+
+<img width="1033" height="760" alt="image" src="https://github.com/user-attachments/assets/835fb242-7447-48d5-ae88-c7ca71cfe848" />
+
 ./book_process.sh
+
+
+<img width="539" height="343" alt="image" src="https://github.com/user-attachments/assets/efc7fbd5-fc6e-46df-b520-110648e8bd1b" />
 
 ✅ Expected Output
 
