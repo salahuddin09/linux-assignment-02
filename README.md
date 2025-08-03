@@ -13,9 +13,8 @@ This project contains two Bash scripts to process an Apache access log and a boo
 
     book_process.sh – script to process the book text file
 
- Tasks Performed by Scripts
- 
-access_log_process.sh
+🛠 Tasks Performed by Scripts
+✅ access_log_process.sh
 
     Extract all unique IP addresses.
 
@@ -27,7 +26,7 @@ access_log_process.sh
 
     Count the number of times each endpoint has been requested and sort it in ascending order.
 
- book_process.sh
+✅ book_process.sh
 
     Convert all text to lowercase.
 
@@ -44,20 +43,20 @@ access_log_process.sh
     Calculate and display the average number of words per sentence.
 
 🚀 How to Run
-1️ Clone the repository
+1️⃣ Clone the repository
 
 git clone <your_repo_url>
 cd <your_repo_name>
 
-2️ Make the scripts executable
+2️⃣ Make the scripts executable
 
 chmod +x access_log_process.sh book_process.sh
 
-3️ Run the scripts
+3️⃣ Run the scripts
 
 ./access_log_process.sh
 ./book_process.sh
 
-Expected Output
+✅ Expected Output
 
     The scripts will display all required results directly in the terminal.
